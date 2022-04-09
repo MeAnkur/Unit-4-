@@ -1,0 +1,40 @@
+body{
+  display: grid;
+  grid-template-columns: repeat(2,14em);
+  grid-template-rows: repeat(2,14em);
+  
+}
+button{
+ width: 7em;
+  margin: 0.5em;
+  padding: 0.5em;
+  border-radius: 1em;
+  border: 0.01em solid black;
+  color: white;
+  
+}
+
+.join{
+  background-color:rgb(22, 148, 231)
+}
+.setting{
+  background-color:rgb(112, 120, 126)
+}
+.login{
+  background-color:rgb(175, 143, 39)
+}
+.contact{
+  background-color:rgb(255, 0, 0)
+}
+.search{
+  background-color:rgb(67, 201, 67)
+}
+.help{
+  background-color:rgb(117, 20, 245)
+}
+.home{
+  background-color:rgb(224, 90, 153)
+}
+.download{
+  background-color:rgb(156, 156, 69)
+}
