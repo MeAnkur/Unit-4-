@@ -8,6 +8,7 @@ const Form = () => {
 
   const handelSubmit = (e) => {
     e.preventDefault();
+    console.log(formData);  
   };
 
   const handelChange = (e) => {
