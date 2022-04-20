@@ -1,0 +1,87 @@
+.container{
+    background-color: #f6445e;
+    display: flex;
+    flex-direction: column;
+    width: 150%;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    justify-content: space-around;
+    padding:15px;
+    color: rgb(240, 234, 234);
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.card_brand{
+    display: flex;
+    justify-content: flex-end;  
+   
+}
+
+.card_symbol{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.card_number{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.card_footer{
+    font-size: 12px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.card_footer >div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+img{
+    width:90px;
+    height:35px;
+    border-radius:5%;
+}
+
+.card_symbol > img{
+    width:40px;
+    height:30px;
+    border-radius:5%;
+}
+
+.form_inner{
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.form_footer{
+    display: flex;
+    justify-content: space-around;
+    width:100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    gap:10px;
+}
+
+input{
+    border:none;
+    border-bottom: #f6445e solid 1px;
+}
+
+label{
+    font-size: 12px;
+    font-weight: bold;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+span{
+    font-size: 14px;
+    font-weight: bold;
+    color: #f6445e;
+}
