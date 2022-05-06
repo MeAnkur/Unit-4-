@@ -1,0 +1,93 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "username": "#",
+      "address": "#",
+      "marriedStatus": false,
+      "age": "",
+      "salary": ""
+    },
+    {
+      "username": "q",
+      "age": "12345",
+      "address": "1234678909",
+      "department": "a",
+      "salary": "12345",
+      "maritalstate": false,
+      "id": 2
+    },
+    {
+      "username": "q",
+      "age": "12345",
+      "address": "1234678909",
+      "department": "a",
+      "salary": "12345",
+      "maritalstate": false,
+      "id": 3
+    },
+    {
+      "username": "q",
+      "age": "12345",
+      "address": "1234678909",
+      "department": "a",
+      "salary": "12345",
+      "maritalstate": false,
+      "id": 4
+    },
+    {
+      "username": "q",
+      "age": "12345",
+      "address": "1234678909",
+      "department": "a",
+      "salary": "12345",
+      "maritalstate": false,
+      "id": 5
+    },
+    {
+      "username": "ankur",
+      "age": "22",
+      "address": "12345",
+      "department": "",
+      "salary": "12345",
+      "maritalstate": true,
+      "id": 6
+    },
+    {
+      "username": "ankur",
+      "age": "22",
+      "address": "12345",
+      "department": "",
+      "salary": "12345",
+      "maritalstate": true,
+      "id": 7
+    },
+    {
+      "username": "ankur",
+      "age": "22",
+      "address": "12345",
+      "department": "",
+      "salary": "12345",
+      "maritalstate": true,
+      "id": 8
+    },
+    {
+      "username": "ankur",
+      "age": "22",
+      "address": "12345",
+      "department": "",
+      "salary": "12345",
+      "maritalstate": true,
+      "id": 9
+    },
+    {
+      "username": "Kosireddi",
+      "age": "1",
+      "address": "nethaji nagar 1st street, near hindi training college",
+      "department": "b",
+      "salary": "12345",
+      "maritalstate": true,
+      "id": 10
+    }
+  ]
+}
